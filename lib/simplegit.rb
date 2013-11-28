@@ -16,5 +16,5 @@ class SimpleGit
         return `#{git_cmd} 2>&1`.chomp
       end
     end
-  
+   tianjing  
 end
